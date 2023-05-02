@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413660896853",
+    "project_id": "fb-authphone",
+    "storage_bucket": "fb-authphone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413660896853:android:73f2ed086edf0b7eb6bedc",
+        "android_client_info": {
+          "package_name": "com.example.fbauthphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413660896853-vaa8l8urlmvr6t09oji7v0b6rvjkat4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1OQzV04bFZ_cIQtF1oIYDdFd6hS42juc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413660896853-vaa8l8urlmvr6t09oji7v0b6rvjkat4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
